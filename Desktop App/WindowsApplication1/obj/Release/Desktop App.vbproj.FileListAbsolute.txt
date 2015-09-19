@@ -1,0 +1,24 @@
+C:\Users\wesley\Documents\Visual Studio 2013\Projects\Desktop App\WindowsApplication1\obj\Release\WindowsApplication1.Change.resources
+C:\Users\wesley\Documents\Visual Studio 2013\Projects\Desktop App\WindowsApplication1\obj\Release\WindowsApplication1.Calculator.resources
+C:\Users\wesley\Documents\Visual Studio 2013\Projects\Desktop App\WindowsApplication1\obj\Release\WindowsApplication1.Form3.resources
+C:\Users\wesley\Documents\Visual Studio 2013\Projects\Desktop App\WindowsApplication1\obj\Release\WindowsApplication1.Kalender.resources
+C:\Users\wesley\Documents\Visual Studio 2013\Projects\Desktop App\WindowsApplication1\obj\Release\WindowsApplication1.Login.resources
+C:\Users\wesley\Documents\Visual Studio 2013\Projects\Desktop App\WindowsApplication1\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\wesley\Documents\Visual Studio 2013\Projects\Desktop App\WindowsApplication1\obj\Release\WindowsApplication1.test.resources
+C:\Users\wesley\Documents\Visual Studio 2013\Projects\Desktop App\WindowsApplication1\obj\Release\WindowsApplication1.Website.resources
+C:\Users\wesley\Documents\Visual Studio 2013\Projects\Desktop App\WindowsApplication1\obj\Release\WindowsApplication1.Welkom.resources
+C:\Users\wesley\Documents\Visual Studio 2013\Projects\Desktop App\WindowsApplication1\obj\Release\Desktop App.vbproj.GenerateResource.Cache
+C:\Users\wesley\Documents\Visual Studio 2013\Projects\Desktop App\WindowsApplication1\obj\Release\Desktop App.vbprojResolveAssemblyReference.cache
+C:\Users\wesley\Documents\Visual Studio 2013\Projects\Desktop App\WindowsApplication1\bin\Release\Desktop App.exe.config
+C:\Users\wesley\Documents\Visual Studio 2013\Projects\Desktop App\WindowsApplication1\bin\Release\Desktop App.exe
+C:\Users\wesley\Documents\Visual Studio 2013\Projects\Desktop App\WindowsApplication1\bin\Release\Desktop App.pdb
+C:\Users\wesley\Documents\Visual Studio 2013\Projects\Desktop App\WindowsApplication1\bin\Release\Desktop App.xml
+C:\Users\wesley\Documents\Visual Studio 2013\Projects\Desktop App\WindowsApplication1\obj\Release\Desktop App.exe
+C:\Users\wesley\Documents\Visual Studio 2013\Projects\Desktop App\WindowsApplication1\obj\Release\Desktop App.xml
+C:\Users\wesley\Documents\Visual Studio 2013\Projects\Desktop App\WindowsApplication1\obj\Release\Desktop App.pdb
+C:\Users\wesley\Documents\Visual Studio 2013\Projects\Desktop App\WindowsApplication1\obj\Release\WindowsApplication1.Admin.resources
+C:\Users\wesley\Documents\Visual Studio 2013\Projects\Desktop App\WindowsApplication1\obj\Release\WindowsApplication1.Typer.resources
+C:\Users\wesley\Documents\GIT Desktop\Desktop-app\Desktop App\WindowsApplication1\bin\Release\Desktop App.exe.config
+C:\Users\wesley\Documents\GIT Desktop\Desktop-app\Desktop App\WindowsApplication1\obj\Release\Desktop App.exe
+C:\Users\wesley\Documents\GIT Desktop\Desktop-app\Desktop App\WindowsApplication1\obj\Release\Desktop App.xml
+C:\Users\wesley\Documents\GIT Desktop\Desktop-app\Desktop App\WindowsApplication1\obj\Release\Desktop App.pdb
